@@ -6,3 +6,10 @@ Learning-Resources for Full-Stack Developer
 
 # University of Washington- Department of Computer Science:
 - https://www.cs.washington.edu/education/courses/
+
+# Learn Containers and Machine Learning for free:
+- https://www.katacoda.com/
+
+# Software Development Principles by Martin Flower:
+- https://martinfowler.com/
+
