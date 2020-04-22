@@ -17,3 +17,5 @@
 # Learn web developemnt
 - https://ultimatecourses.com/
 
+# Deep Learning
+- https://www.deeplearning.ai/
