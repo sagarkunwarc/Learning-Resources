@@ -14,3 +14,6 @@
 # Software Development Principles by Martin Flower:
 - https://martinfowler.com/
 
+# Learn web developemnt
+- https://ultimatecourses.com/
+
