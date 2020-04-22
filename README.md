@@ -19,3 +19,6 @@
 
 # Deep Learning
 - https://www.deeplearning.ai/
+
+# JHipster (Developement framework to create SpringBoot + Angular, React, and Vue.js projects)
+- https://www.jhipster.tech/
