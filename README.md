@@ -25,3 +25,6 @@
 
 # Microservice Guide
 - https://martinfowler.com/microservices/
+
+# AWS Microservice
+- https://aws.amazon.com/microservices/
